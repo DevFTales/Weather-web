@@ -27,9 +27,6 @@ Contributions are welcome! If you find problems, bugs or have suggestions for im
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-
-# Weather-web
-# Weather Forecast Application This is a simple weather forecast application that allows users to get weather information from different cities around the world. The app consumes the OpenWeatherMap API to get the real-time weather forecast data.
 ## Funcionalidades
 
 - Pesquisa de previsão do tempo por nome da cidade
